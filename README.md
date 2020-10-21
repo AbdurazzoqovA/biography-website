@@ -1,6 +1,6 @@
-This is laravel website for biography. 
-It is seo friendly 
-It generates seo friendly urls automatically
-It generates Meta tags automatically
+This is laravel website for biography. <br>
+It is seo friendly <br>
+It generates seo friendly urls automatically<br>
+It generates Meta tags automatically<br>
 
-Theme used onetecg link : https://colorlib.com/wp/template/onetech/
+Theme used onetech link : https://colorlib.com/wp/template/onetech/
